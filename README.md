@@ -10,7 +10,11 @@
 
 参考资料：
 
-[https://blog.csdn.net/korekara88730/article/details/50987930](手把手教你编写游戏模拟器%2520-%2520Chip8篇%25281%2529)
+[https://blog.csdn.net/korekara88730/article/details/50987930](手把手教你编写游戏模拟器%252520-%252520Chip8篇%2525281%252529)
 
 [https://blog.csdn.net/2401\_85828611/article/details/148959565](CHIP8模拟器开源项目的使用和技术文档解读)
+
+5.20
+
+添加了读取rom和渲染函数，渲染函数使用了ds辅助，完善了部分指令
 
